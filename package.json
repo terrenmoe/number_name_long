@@ -1,0 +1,26 @@
+{
+  "name": "number_long_name",
+  "version": "1.0.0",
+  "description": "A mappable for number to numeric names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrenmoe/number_name_long.git"
+  },
+  "keywords": [
+    "number",
+    "mappable",
+    "long",
+    "name",
+    "word"
+  ],
+  "author": "Alex Rossiter <terrenmoe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terrenmoe/number_name_long/issues"
+  },
+  "homepage": "https://github.com/terrenmoe/number_name_long#readme"
+}
